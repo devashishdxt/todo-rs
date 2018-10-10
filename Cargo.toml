@@ -1,0 +1,12 @@
+[package]
+name = "todo"
+version = "0.1.0"
+authors = ["Devashish Dixit <devashish@trakour.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2"
+bincode = "1.0"
+serde = "1.0"
+serde_derive = "1.0"
+prettytable-rs = "0.8"
